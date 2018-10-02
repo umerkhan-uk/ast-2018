@@ -5,9 +5,9 @@ Advanced Software Technology 2018 course work
 Introductory course for software technology.
 
 Students attending:
-1.
-2.
-3.
+1. 
+2. 
+3. 
 4.
 5.
 6.
