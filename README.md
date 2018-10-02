@@ -24,6 +24,6 @@ Students attending:
 17. ---
 18. ---
 19. ---
-20. ---
+20. Umer Khan
 21. ---
 
